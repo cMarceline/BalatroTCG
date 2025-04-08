@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "6259d8a43f3e81a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74691035db739ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f65d7edd5cb6857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Pot.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Pot"
+            }
+          },
+          {
+            "id": "f090daf1d5ded1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/5. Gluttonous Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Gluttonous Joker"
+            }
+          },
+          {
+            "id": "ae44c2636d6c5438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/7. Zany Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Zany Joker"
+            }
+          },
+          {
+            "id": "15a36cc8c14ae8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/8. Mad Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Mad Joker"
+            }
+          },
+          {
+            "id": "a259ce1f16709a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/20. Credit Card.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20. Credit Card"
+            }
+          },
+          {
+            "id": "56522652b62b7ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/21. Banner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "21. Banner"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73fb7b5811c63b8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d979826fd7bd7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebfeadcbe7ed363a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f14f7fd07a2be69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c44d621449b39cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ef7e3987a21f2b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5add0ce425a5fa9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb854a819f3649d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jokers/1. Common Jokers/4. Wrathful Joker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Wrathful Joker"
+            }
+          },
+          {
+            "id": "645ba6f79d9031fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "56522652b62b7ade",
+  "lastOpenFiles": [
+    "Jokers/1. Common Jokers/21. Banner.md",
+    "Jokers/1. Common Jokers/20. Credit Card.md",
+    "Untitled 1.md",
+    "Jokers/1. Common Jokers/8. Mad Joker.md",
+    "Jokers/1. Common Jokers/7. Zany Joker.md",
+    "Jokers/1. Common Jokers/6. Jolly Joker.md",
+    "Jokers/1. Common Jokers/4. Wrathful Joker.md",
+    "Jokers/1. Common Jokers/5. Gluttonous Joker.md",
+    "Jokers/1. Common Jokers/3. Lusty Joker.md",
+    "Jokers/1. Common Jokers/2. Greedy Joker.md",
+    "Jokers/1. Common Jokers/1. Jimbo.md",
+    "Jokers/2. Uncommon Jokers/2. Uncommon Jokers.md",
+    "Jokers/Jokers.md",
+    "Jokers/1. Common Jokers/1. Common Jokers.md",
+    "Voucher.md",
+    "Templates/Joker Template.md",
+    "Untitled.md",
+    "Personal Pot.md",
+    "The Stock.md",
+    "Balatro The Definitive EPIC (Real) Card Game!.md",
+    "Held Chips.md",
+    "Card Value.md",
+    "Templates",
+    "Game Phases/Shopping Phase.md",
+    "Game Phases/Gambling Phase.md",
+    "Jokers/4. Legendary Jokers/4. Legendary Jokers.md",
+    "Jokers/4. Legendary Jokers",
+    "Jokers/3. Rare Jokers/3. Rare Jokers.md",
+    "Jokers/3. Rare Jokers",
+    "Jokers/2. Uncommon Jokers",
+    "Jokers/1. Common Jokers",
+    "Loose",
+    "Game Phases",
+    "Jokers"
+  ]
+}
