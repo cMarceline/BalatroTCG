@@ -7,9 +7,7 @@ aliases:
 
 # All Jokers
 ```dataview
-TABLE 
-  joker-no AS No,
-  Name,
+TABLE WITHOUT ID file.link AS Name,
   Effect,
   Rarity
 FROM #joker AND -"!Templates"

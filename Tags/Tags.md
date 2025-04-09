@@ -1,8 +1,6 @@
 # All Tags
 ``` dataview
-TABLE 
-  Number AS No,
-  Name,
+TABLE WITHOUT ID file.link AS Name,
   Effect
 FROM #Tag AND -"!Templates"
 Sort Number ASC
