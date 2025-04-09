@@ -1,0 +1,1 @@
+[[Foil]] cards will add 50 chips when triggered.
