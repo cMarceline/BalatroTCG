@@ -1,12 +1,10 @@
 ---
 tags:
-  - joker
-  - common
-Joker-no: 7
+  - Arcana
+Number: 1
 Name: Joker
-Rarity: Common
-Effect: +12% to Final Pot if Three of a Kind available
-OG Effect: +12 Mult if played hand contains a Three of a Kind
+Effect: +10% to Final Pot
+OG Effect: +4 Mult
 Art: https://static.wikia.nocookie.net/balatrogame/images/e/ef/Joker.png/revision/latest?cb=20230925003651
 OG Balatro Wiki Entry: https://balatrogame.fandom.com/wiki/Joker
 ---

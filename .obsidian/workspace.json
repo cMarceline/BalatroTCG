@@ -8,97 +8,112 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f65d7edd5cb6857",
+            "id": "576a3a1c86030d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Pot.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Personal Pot"
-            }
-          },
-          {
-            "id": "f090daf1d5ded1b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jokers/1. Common Jokers/5. Gluttonous Joker.md",
+                "file": "Tags/3. Negative Tag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5. Gluttonous Joker"
+              "title": "3. Negative Tag"
             }
           },
           {
-            "id": "ae44c2636d6c5438",
+            "id": "1db23eaab7aa584f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jokers/1. Common Jokers/7. Zany Joker.md",
+                "file": "Tags/4. Foil Tag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "7. Zany Joker"
+              "title": "4. Foil Tag"
             }
           },
           {
-            "id": "15a36cc8c14ae8c3",
+            "id": "2362a57a93d2f6ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jokers/1. Common Jokers/8. Mad Joker.md",
+                "file": "Tags/5. Holographic Tag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8. Mad Joker"
+              "title": "5. Holographic Tag"
             }
           },
           {
-            "id": "a259ce1f16709a85",
+            "id": "ff8b991cb16a2db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jokers/1. Common Jokers/20. Credit Card.md",
+                "file": "FAQ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20. Credit Card"
+              "title": "FAQ"
             }
           },
           {
-            "id": "56522652b62b7ade",
+            "id": "a7077cf051f341f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jokers/1. Common Jokers/21. Banner.md",
+                "file": "Tags/6. Polychrome Tag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "21. Banner"
+              "title": "6. Polychrome Tag"
+            }
+          },
+          {
+            "id": "1074d0dae24dbef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/9. Boss Tag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Boss Tag"
+            }
+          },
+          {
+            "id": "30adf3807a339e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Standard Tag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Standard Tag"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,41 +223,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56522652b62b7ade",
+  "active": "30adf3807a339e94",
   "lastOpenFiles": [
-    "Jokers/1. Common Jokers/21. Banner.md",
-    "Jokers/1. Common Jokers/20. Credit Card.md",
-    "Untitled 1.md",
-    "Jokers/1. Common Jokers/8. Mad Joker.md",
-    "Jokers/1. Common Jokers/7. Zany Joker.md",
-    "Jokers/1. Common Jokers/6. Jolly Joker.md",
-    "Jokers/1. Common Jokers/4. Wrathful Joker.md",
-    "Jokers/1. Common Jokers/5. Gluttonous Joker.md",
-    "Jokers/1. Common Jokers/3. Lusty Joker.md",
-    "Jokers/1. Common Jokers/2. Greedy Joker.md",
-    "Jokers/1. Common Jokers/1. Jimbo.md",
-    "Jokers/2. Uncommon Jokers/2. Uncommon Jokers.md",
+    "Tags/9. Boss Tag.md",
+    "10. Standard Tag.md",
+    "Card Packs",
+    "Tags/1. Uncommon Tag.md",
+    "Tags/2. Rare tag.md",
+    "Tags/3. Negative Tag.md",
+    "Tags/4. Foil Tag.md",
+    "Tags/5. Holographic Tag.md",
+    "Tags/6. Polychrome Tag.md",
+    "Tags/7. Investment Tag.md",
+    "Tags/8. Voucher Tag.md",
+    "Tags/Tags.md",
     "Jokers/Jokers.md",
-    "Jokers/1. Common Jokers/1. Common Jokers.md",
-    "Voucher.md",
-    "Templates/Joker Template.md",
-    "Untitled.md",
-    "Personal Pot.md",
-    "The Stock.md",
-    "Balatro The Definitive EPIC (Real) Card Game!.md",
-    "Held Chips.md",
-    "Card Value.md",
-    "Templates",
-    "Game Phases/Shopping Phase.md",
-    "Game Phases/Gambling Phase.md",
-    "Jokers/4. Legendary Jokers/4. Legendary Jokers.md",
-    "Jokers/4. Legendary Jokers",
-    "Jokers/3. Rare Jokers/3. Rare Jokers.md",
-    "Jokers/3. Rare Jokers",
-    "Jokers/2. Uncommon Jokers",
-    "Jokers/1. Common Jokers",
-    "Loose",
-    "Game Phases",
-    "Jokers"
+    "Terminology/Card Value.md",
+    "Terminology/Personal Value.md",
+    "Terminology/Purchasing Power.md",
+    "Terminology/Refunds.md",
+    "Terminology/The Big Pot.md",
+    "Terminology/Personal Pot.md",
+    "The Table/The Table.md",
+    "FAQ.md",
+    "Editions/Holographic.md",
+    "Editions/Base.md",
+    "Editions/Lucky.md",
+    "Editions/Foil.md",
+    "Editions/Mult.md",
+    "Editions/Negative.md",
+    "Editions/Untitled",
+    "Terminology",
+    "Templates/Untitled",
+    "Editions",
+    "The Table",
+    "Tags",
+    "Planet Cards",
+    "Playing Cards",
+    "Arcana Cards"
   ]
 }

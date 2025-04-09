@@ -8,5 +8,5 @@ At this point players may bargain with each other, and sell cards they are holdi
 ### Clean Sales
 Players agree on a value greater than the current [[Card Value]], the player buying the card must have enough [[Held Chips]] to give the selling player the agreed value, as well as grow the [[Card Value|Card's Value]] equivalent to the agreed value.
 ### Dirty/Forced Sales
-If a player doesn't want to sell a card, but another player really wants it, they can forcibly buy it. To force purchase, find the percentage that the desired card is contributing to a player's [[Personal Value]] (up to 50%). Then the purchasing party can put that percentage of their own [[Personal Value]] onto the card, and claim it for themselves.
-	NOTE: If a card is contributing more than 50% to a player's [[Personal Value]] then it can be force bought for only 50% of the purchaser's [[Personal Value]]
+If a player doesn't want to sell a card, but another player really wants it, they can forcibly buy it. To force purchase, find the percentage that the desired card is contributing to a player's [[Personal Value]] (up to 33%). Then the purchasing party can put that percentage of their own [[Personal Value]] onto the card, as well as handing that percentage to the store, and claim it for themselves.
+	NOTE: If a card is contributing more than 33% to a player's [[Personal Value]] then it can be force bought for only 33% of the purchaser's [[Personal Value]]

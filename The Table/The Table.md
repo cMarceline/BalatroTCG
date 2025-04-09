@@ -1,0 +1,1 @@
+The table will contain everything you will be using to play the game. There are some important terms that will be used throughout the cards and rulebook as to what certain objects and decks are. Familiarise yourself with these to have the smoothest gameplay experience.

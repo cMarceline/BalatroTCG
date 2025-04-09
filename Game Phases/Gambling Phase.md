@@ -2,13 +2,12 @@
 This phase will loop a bit. Use your held chips to grow your own pot. Put your chips directly in front of you as your bet. And there are three actions that will occur
 ## Step 1: Building Personal Hands
 Draw 5 cards out of their [[personal deck]], and hold onto two of them, return the other three to the bottom of their [[personal deck]]
-## Step 2: Draw 2 cards for the table
-Pull 2 cards out of the table's deck. Place them in view of everyone these function as cards that all players are able to use
+## Step 2: Draw 1 card for the table
+Pull 1 card out of the table's deck. Place them in view of everyone these function as cards that all players are able to usel
 ## Step 3: Place bets
 Each player grows their personal starting pot, hoping to cash out later in a big final pot. Bets are placed clockwise around the table and loops until everyone no longer wishes to grow their pot.
 ## Repeat with Variation 3 times
 On each sequential [[Gambling Phase#Step 1 Building Personal Hands|Step 1]], players draw 1 less card, and only get to hold onto 3 of them
-On each sequential draw of the table, draw only one card
 
 Beware of [[jokers]] that say "when you place a bet," enact their effects accordingly
 # Buy Out phase

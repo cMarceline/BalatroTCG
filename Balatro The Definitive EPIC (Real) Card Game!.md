@@ -2,11 +2,11 @@ We've all had the thought, "what if Balatro, but real?" This is my attempt at th
 
 [[Balatro The Definitive EPIC (Real) Card Game!]] [[Balatro The Definitive EPIC (Real) Card Game!|(BTDERCG)]] is a fusion of the Single player poker rogue-like video game [Balatro](https://en.wikipedia.org/wiki/Balatro) designed by LocalThunk, and the real life poker game texas holdem.
 
-[[Balatro The Definitive EPIC (Real) Card Game!|BTDERCG]] is a competitive deck-building rouge-like card game, where you aim to "[[Buy Out|buy out]]" your opponents. You lose the game if you hold no [[Jokers]] or [[Planets]].
+[[Balatro The Definitive EPIC (Real) Card Game!|BTDERCG]] is a competitive deck-building rouge-like card game, where you aim to "[[Buy Out|buy out]]" your opponents. You lose the game if you hold no [[Jokers]] or [[Planet Cards]].
 
-The game is divided into 2 key phases: [[The Gambling Phase]] and [[The Shopping Phase]], with each of those having their own [[In Phases]] and [[Out Phases]]. 
+The game is divided into 2 key phases: [[Gambling Phase|The Gambling Phase]] and [[Shopping Phase|The Shopping Phase]], with each of those having their own [[In Phases]] and [[Out Phases]]. 
 # How Do I Play?
-The Game goes through 4 phases, w
+The Game goes through 4 phases,
 The Flow of the game goes as such:
 [[Gambling Phase#Buy In phase|Gambling Phase: Buy In]]
 	Place bets to grow the pot for the biggest buy out you can, try to undercut your opponents and construct the best hand you can.
