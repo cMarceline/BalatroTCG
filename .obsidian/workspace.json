@@ -38,6 +38,171 @@
             }
           },
           {
+            "id": "cfa33f09073c8866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "142. Cartomancer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "142. Cartomancer"
+            }
+          },
+          {
+            "id": "d4a5ebc97e64ec53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "140. Shoot the Moon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "140. Shoot the Moon"
+            }
+          },
+          {
+            "id": "1d45c72bcaf871f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "126. Oops All 6s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "126. Oops All 6s"
+            }
+          },
+          {
+            "id": "cf4a03d6e4781886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/3. Rare Jokers/124. Wee Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "124. Wee Joker"
+            }
+          },
+          {
+            "id": "3ea046eac5ed4def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "122. Flower Pot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "122. Flower Pot"
+            }
+          },
+          {
+            "id": "9fdf9c0a795f3ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "121. Showman.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "121. Showman"
+            }
+          },
+          {
+            "id": "f5ced8e352891183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "120. Glass Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "120. Glass Joker"
+            }
+          },
+          {
+            "id": "b7870fc987b971ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "119. Onyx Agate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "119. Onyx Agate"
+            }
+          },
+          {
+            "id": "aae3351e9b4c61e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "118. Arrowhead.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "118. Arrowhead"
+            }
+          },
+          {
+            "id": "c9042bb4c1623fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "117. Bloodstone.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "117. Bloodstone"
+            }
+          },
+          {
+            "id": "984bcbf5ea680e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "116. Rough Gem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "116. Rough Gem"
+            }
+          },
+          {
             "id": "aed4eb35b47fa9cb",
             "type": "leaf",
             "state": {
@@ -53,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -126,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "143. Astronomer.md",
+                "file": "116. Rough Gem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 143. Astronomer"
+              "title": "Outline of 116. Rough Gem"
             }
           },
           {
@@ -165,34 +330,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4f0d8e4340fcabd",
+  "active": "984bcbf5ea680e29",
   "lastOpenFiles": [
-    "Game Phases/Shopping Phase.md",
+    "117. Bloodstone.md",
+    "116. Rough Gem.md",
+    "126. Oops All 6s.md",
+    "118. Arrowhead.md",
+    "119. Onyx Agate.md",
+    "120. Glass Joker.md",
+    "121. Showman.md",
+    "122. Flower Pot.md",
+    "Enhancements/Enhancements.md",
+    "Enhancements/Glass.md",
+    "Jokers/3. Rare Jokers/124. Wee Joker.md",
+    "125. Merry Andy.md",
+    "128. Seeing Double.md",
+    "Arcana Cards/Arcana Cards.md",
+    "Jokers/3. Rare Jokers/136. Stuntman.md",
+    "129. Matador.md",
+    "Jokers/3. Rare Jokers/127. The Idol.md",
+    "Jokers/3. Rare Jokers/137. Invisible Joker.md",
+    "139. Satellite.md",
+    "Untitled 1.md",
+    "140. Shoot the Moon.md",
+    "142. Cartomancer.md",
     "143. Astronomer.md",
+    "Game Phases/Shopping Phase.md",
     "Celestial Packs.md",
     "Jokers/Jokers.md",
-    "Terminology/Draw.md",
-    "Tags/Tags.md",
-    "The Table/The Table.md",
-    "Jokers/3. Rare Jokers/127. The Idol.md",
-    "Game Phases/Game Phases.md",
-    "Enhancements/Enhancements.md",
-    "Editions/Editions.md",
-    "Card Packs/Card Packs.md",
-    "Arcana Cards/Arcana Cards.md",
-    "Terminology/Purchases.md",
-    "Terminology/Purchasing Power.md",
-    "Terminology/Redistribution.md",
-    "Terminology/Refunds.md",
-    "Terminology/Scoring.md",
-    "Terminology/The Big Pot.md",
-    "Terminology/Personal Value.md",
-    "Terminology/personal deck.md",
-    "Terminology/Folding.md",
-    "Terminology/Personal Pot.md",
-    "Terminology/Draw Size.md",
-    "Terminology/Card Value.md",
-    "Vouchers/Vouchers.md",
     "Enhancements",
     "Card Packs",
     "Editions/Untitled",
