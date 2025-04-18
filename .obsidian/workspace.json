@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Draw.md",
+                "file": "Jokers/Jokers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Draw"
+              "title": "Jokers"
             }
           },
           {
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Draw.md",
+                "file": "Jokers/Jokers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Draw"
+              "title": "Outline of Jokers"
             }
           },
           {
@@ -151,8 +151,8 @@
   },
   "active": "25b6f868e0b6162e",
   "lastOpenFiles": [
-    "Tags/Tags.md",
     "Terminology/Draw.md",
+    "Tags/Tags.md",
     "The Table/The Table.md",
     "Jokers/3. Rare Jokers/127. The Idol.md",
     "Jokers/Jokers.md",
