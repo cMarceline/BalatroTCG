@@ -2,7 +2,6 @@
 aliases:
   - Joker
 ---
-
 # Important Joker Terminology
 
 # All Jokers
