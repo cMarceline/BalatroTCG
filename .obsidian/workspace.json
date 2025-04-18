@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jokers/Jokers.md",
+                "file": "Tags/Tags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jokers"
+              "title": "Tags"
             }
           },
           {
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jokers/Jokers.md",
+                "file": "Tags/Tags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jokers"
+              "title": "Outline of Tags"
             }
           },
           {
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +150,15 @@
   },
   "active": "25b6f868e0b6162e",
   "lastOpenFiles": [
+    "Terminology/Draw.md",
+    "The Table/The Table.md",
+    "Jokers/3. Rare Jokers/127. The Idol.md",
+    "Jokers/Jokers.md",
+    "Game Phases/Game Phases.md",
+    "Enhancements/Enhancements.md",
+    "Editions/Editions.md",
+    "Card Packs/Card Packs.md",
+    "Arcana Cards/Arcana Cards.md",
     "Terminology/Purchases.md",
     "Terminology/Purchasing Power.md",
     "Terminology/Redistribution.md",
@@ -160,21 +170,12 @@
     "Terminology/Folding.md",
     "Terminology/Personal Pot.md",
     "Terminology/Draw Size.md",
-    "Terminology/Draw.md",
     "Terminology/Card Value.md",
-    "The Table/The Table.md",
     "Vouchers/Vouchers.md",
-    "Jokers/Jokers.md",
     "Planet Cards/Planet Cards.md",
     "Playing Cards/Playing Cards.md",
     "Jokers/3. Rare Jokers/51. DNA.md",
     "Jokers/3. Rare Jokers/144. Burnt Joker.md",
-    "Game Phases/Game Phases.md",
-    "Enhancements/Enhancements.md",
-    "Editions/Editions.md",
-    "Card Packs/Card Packs.md",
-    "Arcana Cards/Arcana Cards.md",
-    "!Templates/Joker Template.md",
     "Enhancements",
     "Card Packs",
     "Editions/Untitled",
