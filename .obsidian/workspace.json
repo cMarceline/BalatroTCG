@@ -8,7 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25b6f868e0b6162e",
+            "id": "aed4eb35b47fa9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/9. Crazy Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Crazy Joker"
+            }
+          },
+          {
+            "id": "1aaa84eac1ef175d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/11. Sly Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Sly Joker"
+            }
+          },
+          {
+            "id": "cd7dd47a4b8e226d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/1. Common Jokers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Common Jokers"
+            }
+          },
+          {
+            "id": "bad72d8426f821bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/13. Clever Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Clever Joker"
+            }
+          },
+          {
+            "id": "f4d50eff05cc80f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/14. Devious Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Devious Joker"
+            }
+          },
+          {
+            "id": "7b92d21d71e60e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/15. Crafty Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "15. Crafty Joker"
+            }
+          },
+          {
+            "id": "4441e6c76ed0a5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,21 +113,142 @@
             }
           },
           {
-            "id": "aed4eb35b47fa9cb",
+            "id": "9447e76567e7a38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jokers/3. Rare Jokers/127. The Idol.md",
+                "file": "Jokers/2. Uncommon Jokers/2. Uncommon Jokers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "127. The Idol"
+              "title": "2. Uncommon Jokers"
+            }
+          },
+          {
+            "id": "e6d6272861bbac49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/2. Uncommon Jokers/18. Four Fingers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Four Fingers"
+            }
+          },
+          {
+            "id": "a2e72ebd1f11cb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/2. Uncommon Jokers/19. Mime.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "19. Mime"
+            }
+          },
+          {
+            "id": "1793eeccdc1ed8ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/22. Banner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "22. Banner"
+            }
+          },
+          {
+            "id": "303fdf5a4bd9ab15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/1. Common Jokers/23. Mystic Summit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "23. Mystic Summit"
+            }
+          },
+          {
+            "id": "c6c1efce3d7e7fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FAQ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "FAQ"
+            }
+          },
+          {
+            "id": "8a32d9248c54e258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/2. Uncommon Jokers/24. Marble Joker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "24. Marble Joker"
+            }
+          },
+          {
+            "id": "95e281127cdc1620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jokers/2. Uncommon Jokers/25. Loyalty Card.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "25. Loyalty Card"
+            }
+          },
+          {
+            "id": "27b92b3bc988be6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Balatro The Definitive EPIC (Real) Card Game!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Balatro The Definitive EPIC (Real) Card Game!"
             }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -110,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jokers/Jokers.md",
+                "file": "Balatro The Definitive EPIC (Real) Card Game!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jokers"
+              "title": "Outline of Balatro The Definitive EPIC (Real) Card Game!"
             }
           },
           {
@@ -137,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,34 +359,34 @@
       "graph:Open graph view": false
     }
   },
-  "active": "25b6f868e0b6162e",
+  "active": "27b92b3bc988be6a",
   "lastOpenFiles": [
-    "Terminology/Purchases.md",
-    "Terminology/Purchasing Power.md",
-    "Terminology/Redistribution.md",
-    "Terminology/Refunds.md",
-    "Terminology/Scoring.md",
-    "Terminology/The Big Pot.md",
-    "Terminology/Personal Value.md",
-    "Terminology/personal deck.md",
-    "Terminology/Folding.md",
-    "Terminology/Personal Pot.md",
-    "Terminology/Draw Size.md",
-    "Terminology/Draw.md",
-    "Terminology/Card Value.md",
-    "The Table/The Table.md",
-    "Vouchers/Vouchers.md",
+    "Game Phases/Gambling Phase.md",
+    "Balatro The Definitive EPIC (Real) Card Game!.md",
+    "Vouchers/Untitled.md",
+    "Stone.md",
+    "Pair.md",
+    "Joker.md",
+    "Final Pot.md",
+    "FAQ.md",
+    "Create.md",
+    "Jokers/1. Common Jokers/26. 8 Ball.md",
+    "Jokers/2. Uncommon Jokers/25. Loyalty Card.md",
+    "Jokers/2. Uncommon Jokers/24. Marble Joker.md",
+    "Jokers/2. Uncommon Jokers/18. Four Fingers.md",
+    "Jokers/2. Uncommon Jokers/19. Mime.md",
+    "Jokers/2. Uncommon Jokers/21. Ceremonial Dagger.md",
+    "Jokers/2. Uncommon Jokers/139. Satellite.md",
+    "Jokers/1. Common Jokers/16. Half Joker.md",
+    "Jokers/1. Common Jokers/20. Credit Card.md",
+    "Jokers/1. Common Jokers/22. Banner.md",
+    "Jokers/1. Common Jokers/23. Mystic Summit.md",
+    "Jokers/1. Common Jokers/29. Raised Fist.md",
+    "22. Banner.md",
     "Jokers/Jokers.md",
-    "Planet Cards/Planet Cards.md",
-    "Playing Cards/Playing Cards.md",
-    "Jokers/3. Rare Jokers/51. DNA.md",
-    "Jokers/3. Rare Jokers/144. Burnt Joker.md",
-    "Game Phases/Game Phases.md",
-    "Enhancements/Enhancements.md",
-    "Editions/Editions.md",
-    "Card Packs/Card Packs.md",
-    "Arcana Cards/Arcana Cards.md",
-    "!Templates/Joker Template.md",
+    "Jokers/1. Common Jokers/15. Crafty Joker.md",
+    "Jokers/1. Common Jokers/14. Devious Joker.md",
+    "Jokers/1. Common Jokers/13. Clever Joker.md",
     "Enhancements",
     "Card Packs",
     "Editions/Untitled",
