@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Tags.md",
+                "file": "Terminology/Draw.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "Draw"
             }
           },
           {
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/Tags.md",
+                "file": "Terminology/Draw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tags"
+              "title": "Outline of Draw"
             }
           },
           {
@@ -145,11 +145,13 @@
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "25b6f868e0b6162e",
   "lastOpenFiles": [
+    "Tags/Tags.md",
     "Terminology/Draw.md",
     "The Table/The Table.md",
     "Jokers/3. Rare Jokers/127. The Idol.md",
@@ -175,7 +177,6 @@
     "Planet Cards/Planet Cards.md",
     "Playing Cards/Playing Cards.md",
     "Jokers/3. Rare Jokers/51. DNA.md",
-    "Jokers/3. Rare Jokers/144. Burnt Joker.md",
     "Enhancements",
     "Card Packs",
     "Editions/Untitled",
