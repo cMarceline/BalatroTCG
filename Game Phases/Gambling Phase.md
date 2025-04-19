@@ -1,7 +1,7 @@
 # Buy In phase
 This phase will loop a bit. Use your held chips to grow your own pot. Put your chips directly in front of you as your bet. And there are three actions that will occur
 ## Step 1: Building Personal Hands
-Draw 5 cards out of their [[personal deck]], and hold onto two of them, return the other three to the bottom of their [[personal deck]]
+Draw 5 cards out of their [[Personal Deck]], and hold onto two of them, return the other three to the bottom of their [[Personal Deck]]
 ## Step 2: Draw 1 card for the table
 Pull 1 card out of the table's deck. Place them in view of everyone these function as cards that all players are able to usel
 ## Step 3: Place bets

@@ -1,15 +1,15 @@
 ---
 tags:
   - joker
-  - Uncommon
-Joker-no: 19
-Name: Joker
+  - common
+Joker-no: 40
+Name: Odd Todd
 Rarity: Common
-Effect: ???
-OG Effect: Retrigger all card held in hand abilities
+Effect: +31 Chips to [[Final Pot]] per odd card [[Available]]
+OG Effect: Played cards with odd rank give +31 Chips when scored
 Art: https://static.wikia.nocookie.net/balatrogame/images/e/ef/Joker.png/revision/latest?cb=20230925003651
 OG Balatro Wiki Entry: https://balatrogame.fandom.com/wiki/Joker
 ---
 # Art
 # Effect
-Retrigger all card held in hand abilities
++31 Chips to [[Final Pot]] per odd card [[Available]]
