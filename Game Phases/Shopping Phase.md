@@ -1,5 +1,5 @@
 # Buy In Phase:
-From [[The Stock]] reveal 5 [[Shop Cards]], as well as 2 [[Card Packs]], and 1 [[Voucher]]
+From [[The Stock]] reveal 5 [[Shop Cards]], as well as 2 [[Booster Packs]], and 1 [[Voucher]]
 Each player must place bets to grow their [[Personal Pot]]. Players place their [[Held Chips]] into their pot clockwise, looping until each player is content with their pot. During this buy in phase, bet according to your [[Personal Value]], ie. "I put in 5% of my [[Personal Value]]" or "I put in half of my [[Personal Value]]"
 From here players can buy cards from the store by pulling from their [[Personal Pot]]. The player who put the highest percentage of their [[Personal Value]] in their pot gets to buy a card.  [[Purchasing Power]] is determined by whoever has the most of their [[Personal Value]] their [[Personal Pot]].
 By putting chips from their [[Personal Pot]] onto the card, they will claim the card for themselves, and the chips they put onto it now determines that [[Card Value|Cards Value]]. After each purchase, reassess who has the highest percentage of their [[Personal Value]] in their [[Personal Pot]].

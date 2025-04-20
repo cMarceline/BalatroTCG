@@ -1,0 +1,14 @@
+---
+tags:
+  - joker
+  - common
+Joker-no: 62
+Name: Joker
+Rarity: Common
+Effect: x3 Mult if you discarded the [[Scoring]] hand this round
+OG Effect: X3 Mult if played poker hand has already been played this round
+Art: https://static.wikia.nocookie.net/balatrogame/images/e/ef/Joker.png/revision/latest?cb=20230925003651
+OG Balatro Wiki Entry: https://balatrogame.fandom.com/wiki/Joker
+---
+# Art
+# Effect
